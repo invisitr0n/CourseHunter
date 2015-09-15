@@ -1,0 +1,2 @@
+# CourseHunter
+Course Hunter Project
